@@ -1,0 +1,12 @@
+1. Flink
+2. graphs
+3. trees
+4. system desing
+5. kafka streams
+6. spark jobs
+7. postgres
+8. merkle tree in git
+9. Networking concepts
+10. LLD
+11. lamport time stamp
+12. little about blockchain
